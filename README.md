@@ -10,6 +10,9 @@ Players take turns guessing the location of their opponent's fleet, aiming to si
 - **Hit/Miss Tracking**: Displays hits (`HH`), misses (`M`), and hidden areas.
 - **Victory Condition**: The game ends when one player sinks all their opponent’s ships.
 
+![battleship1](https://github.com/user-attachments/assets/1dfaf2dd-d296-4006-ae27-88c636a9a3b7)
+
+
 ---
 
 ## How to Play
@@ -28,18 +31,13 @@ Players take turns guessing the location of their opponent's fleet, aiming to si
    - **Miss**: If no ship is in the target cell (`M`).
 3. Players are notified if they sink a ship (e.g., "You sunk the Battleship!").
 
+   ![battleship2](https://github.com/user-attachments/assets/ac70df11-dedd-4e87-bfb7-57ec6b5cbd15)
+
+
 ### **Winning the Game**
 - A player wins by sinking all their opponent's ships.
 - If no winner is determined after a set number of turns, the game ends in a draw.
 
----
 
-## Getting Started
-
-### **Installation**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/battleship-game.git
-   python battleship.py
 
 
